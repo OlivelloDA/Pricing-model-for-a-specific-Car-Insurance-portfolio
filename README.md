@@ -1,3 +1,7 @@
+Pricing model for a specific Car Insurance portfolio
+
+
+
 Project developed for the course "Data Science for Non Life Insurance" Master of Actuarial and Financial Engineering Prof. Katrien Antonio 2020 Ku Leuven
 
 - Data visualisation
